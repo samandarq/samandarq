@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samandarq
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning JS, Flutter
+- 📫 How to reach me squdrator023@gmail.com
